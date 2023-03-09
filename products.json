@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <p>{"products":[
+{"products":[
         {"id":1,"title":"redmi","model":"Redmi Note 7 pro","price":"9999","rating":{"rate":4.44,"count":3400},"category":"redmi","photo":"./public/images/note7pro.png"},
         {"id":2,"model":"Redmi Note 8 pro","price":"10999","rating":{"rate":4.41,"count":3100},"category":"redmi","photo":"./public/images/note8pro.jpg"},
         {"id":3,"model":"Redmi Note 9 pro","price":"12999","rating":{"rate":4.28,"count":3000},"category":"redmi","photo":"./public/images/note9pro.jpg"},
@@ -22,8 +13,4 @@
         {"id":12,"model":"Micromax Canvas 5","price":"6999","rating":{"rate":4.34,"count":3400},"category":"micromax","photo":"./public/images/micromaxcanvas5.webp"}
         
         ]}
-        
-        
-        </p>
-</body>
-</html>
+       
